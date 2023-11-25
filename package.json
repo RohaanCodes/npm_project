@@ -1,0 +1,23 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "uppercasing strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohaanCodes/npm-registration.git"
+  },
+  "keywords": [
+    "strings",
+    "uppercase"
+  ],
+  "author": "rohan04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RohaanCodes/npm-registration/issues"
+  },
+  "homepage": "https://github.com/RohaanCodes/npm-registration#readme"
+}
